@@ -1,0 +1,8 @@
+.env
+*.db
+*.csv
+__pycache__/
+*.pyc
+.vscode/
+dashboard_*.html
+agent_submission_final.zip
